@@ -33,3 +33,4 @@ bin/
 ### QueryDSL ###
 /src/main/generated/
 
+/target/
